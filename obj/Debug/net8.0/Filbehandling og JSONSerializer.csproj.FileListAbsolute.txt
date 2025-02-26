@@ -12,3 +12,4 @@ C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net
 C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.pdb
 C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.genruntimeconfig.cache
 C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\ref\Filbehandling og JSONSerializer.dll
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.sourcelink.json

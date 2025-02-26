@@ -4,6 +4,7 @@ using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.IO;
+using System.Runtime.CompilerServices;
 using System.Text.Json;
 
 class Program
@@ -12,15 +13,21 @@ class Program
     {
         try
         {
+            //Name of the filepath
             string filePath = "laptop.json";
 
+            //Creates a list to store laptop objects
             List<Laptop> laptops = new List<Laptop>();
+            //Checking if filePath exists ("laptop.json")
             if (File.Exists(filePath))
             {
+                //If the file exists, read the existing JSON data from the file
                 string existingJson = File.ReadAllText(filePath);
                 Console.WriteLine($"Data already exists within the file laptop.json{File.ReadAllText(filePath)}");
+                //Only deserialize if the file is not empty
                 if(!string.IsNullOrWhiteSpace(existingJson))
                 {
+                    //Convert JSON data to C# objects, in this case List<Laptop> objects
                     laptops = JsonSerializer.Deserialize<List<Laptop>>(existingJson);
                 }
             }
@@ -42,8 +49,11 @@ class Program
                 Color = color,
                 Year = year
             };
+            //Adds new laptop to the list
             laptops.Add(newLaptop);
+            //Converts list to JSON with pretty formatting = readability (Converts C# objects to JSON)
             string json = JsonSerializer.Serialize(laptops, new JsonSerializerOptions {WriteIndented = true});
+            //Saves new data to the JSON file
             File.WriteAllText(filePath, json);
 
             Console.WriteLine("Data was successfully written to the JSON object");
