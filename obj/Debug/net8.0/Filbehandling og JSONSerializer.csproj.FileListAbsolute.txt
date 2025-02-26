@@ -1,0 +1,14 @@
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\bin\Debug\net8.0\Filbehandling og JSONSerializer.exe
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\bin\Debug\net8.0\Filbehandling og JSONSerializer.deps.json
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\bin\Debug\net8.0\Filbehandling og JSONSerializer.runtimeconfig.json
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\bin\Debug\net8.0\Filbehandling og JSONSerializer.dll
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\bin\Debug\net8.0\Filbehandling og JSONSerializer.pdb
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.AssemblyInfoInputs.cache
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.AssemblyInfo.cs
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.csproj.CoreCompileInputs.cache
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.dll
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\refint\Filbehandling og JSONSerializer.dll
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.pdb
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\Filbehandling og JSONSerializer.genruntimeconfig.cache
+C:\Users\jeane\Desktop\C# Oppgaver\Filbehandling og JSONSerializer\obj\Debug\net8.0\ref\Filbehandling og JSONSerializer.dll
